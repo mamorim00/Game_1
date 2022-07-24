@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Write\ a\ description\ of\ class\ Character\ here.\n\ \n\ @author\ M.\ Amorim\ \n\ @version\ v1.0\ 9/3/2020\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Character\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ checkKey()
+comment2.text=\n\ This\ method\ checks\ if\ the\ keys\ are\ pressed\ in\ order\ to\ move\ the\ character\n
+comment3.params=
+comment3.target=void\ eatMeal()
+comment3.text=\n\ This\ method\ creates\ an\ instance\ of\ the\ Medal\ and\ Finishline\ Classes\ \n
+comment4.params=meal
+comment4.target=void\ eat(Medal)
+comment4.text=\n\ This\ method\ removes\ the\ object\ Medal\ from\ the\ world\n
+comment5.params=meal
+comment5.target=void\ eat(Finishline)
+comment5.text=\n\ This\ method\ removes\ the\ object\ Finishline\ from\ the\ world\n
+comment6.params=
+comment6.target=void\ medalAdd()
+comment6.text=\n\ This\ method\ add\ the\ object\ Medal\ in\ a\ new\ place\ whenever\ a\ medal\ is\ removed\n\ by\ calling\ \ method\ from\ MyWorld\n
+comment7.params=
+comment7.target=void\ winState()
+comment7.text=\n\ This\ method\ makes\ the\ game\ go\ to\ Win\ state\ whenever\ the\ character\ touches\ the\ finishline\n
+numComments=8

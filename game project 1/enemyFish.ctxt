@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=enemyFish
+comment0.text=\n\ enemy\ Fish\ will\ move\ randomly\ and\ will\ move\ 3\ units\ ate\ the\ time.\n\ \n\ @author\ M.\ Amorim\ \n\ @version\ v1.0\ 9/3/2020\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ enemyFish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
